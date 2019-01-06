@@ -9,8 +9,8 @@ Episode|Untertitel|Karaoke|Effekte
 ova0|✔️||
 tv1|✔️||✔️
 ova1|✔️||
-tv4|||
-tv2|🕛||
+tv4|🕛||
+tv2|||
 tv9|||
 ova2|||
 tv5|||
