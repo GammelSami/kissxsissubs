@@ -221,10 +221,10 @@ Dialogue: 0,0:08:28.14,0:08:30.78,Default,thr,0,0,0,,Also hast du dir es nun doc
 Dialogue: 0,0:08:30.78,0:08:32.49,Default,keita,0,0,0,,NEIIIIN!
 Dialogue: 0,0:08:33.24,0:08:34.15,Note,txt,0,0,0,,{\be2\fad(100,100)}{\an7\fs24\u1\bord2.4}Text bubble:{\u0}\N\NSound of hand crushing/spraining
 Dialogue: 0,0:08:34.15,0:08:38.08,Note,txt,0,0,0,,{\be2\fad(100,300)}{\an7\fs24\u1\bord2.4}Note:{\u0}\N\NA~:  AAAAAAAAAAARGH!
-Dialogue: 0,0:08:39.39,0:08:41.04,Default,keita,0,0,0,,Bin Zuhause.
+Dialogue: 0,0:08:39.39,0:08:41.04,Default,keita,0,0,0,,Bin zu Hause.
 Dialogue: 0,0:08:41.04,0:08:42.88,Default,two,0,0,0,,Hallo.
 Dialogue: 0,0:08:43.76,0:08:46.17,Default,keita,0,0,0,,Was macht ihr in meinem Zimmer?
-Dialogue: 0,0:08:47.63,0:08:51.80,Default,keita,0,0,0,,Immer, wenn wir in dein Zimmer wollen, wenn du schon Zuhause bist:
+Dialogue: 0,0:08:47.63,0:08:51.80,Default,keita,0,0,0,,Immer, wenn wir in dein Zimmer wollen, wenn du schon zu Hause bist:
 Dialogue: 0,0:08:51.80,0:08:52.86,Default,two,0,0,0,,Lass uns rein.
 Dialogue: 0,0:08:52.86,0:08:54.57,Default,two,0,0,0,,Sind auch ganz leise.
 Dialogue: 0,0:08:54.57,0:08:55.49,Default,keita,0,0,0,,Wieso?
