@@ -2,6 +2,8 @@
 
 Da alle deutschen kissxsis Subs nicht meinen Qualitätswünschen entsprechen, habe ich mich dazu entschieden, anhand von (meistens) 3 englischen Subs und einem deutschen, eine eigenen Sub zu erstellen.
 
+[Fansubber-Codex](https://nakedsubs.de/kodex/)
+ 
 ## Status:
 
 Episode|Untertitel|Karaoke|Effekte
