@@ -1,7 +1,9 @@
-# kissxsis German Fansub
+# kissxsis German Fansub Rework
 
 Da alle deutschen kissxsis Subs nicht meinen Qualitätswünschen entsprechen, habe ich mich dazu entschieden, anhand von (meistens) 3 englischen Subs und einem deutschen, eine eigenen Sub zu erstellen.
 
+[Fansubber-Codex](https://nakedsubs.de/kodex/)
+ 
 ## Status:
 
 Episode|Untertitel|Karaoke|Effekte
@@ -9,9 +11,9 @@ Episode|Untertitel|Karaoke|Effekte
 ova0|✔️||
 tv1|✔️||✔️
 ova1|✔️||
-tv4|🕛||
-tv2|||
-tv9|||
+tv4|✔️||✔️
+tv2|✔️||✔️
+tv9|🕛||
 ova2|||
 tv5|||
 tv3|||
