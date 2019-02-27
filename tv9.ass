@@ -20,9 +20,9 @@ Video File: ../../../English/TV/[Doki] Kiss x Sis (TV) - 09 (1280x720 h264 BD AA
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 3
-Active Line: 25
-Video Position: 1815
+Scroll Position: 147
+Active Line: 179
+Video Position: 16924
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -69,150 +69,155 @@ Dialogue: 0,0:01:20.20,0:01:22.31,Default,Mother,0,0,0,,Jeder Prüfling hat eine
 Dialogue: 0,0:01:22.31,0:01:24.58,Default,Keita,0,0,0,,Im ganzen Land gibt es Absolventen...
 Dialogue: 0,0:01:24.58,0:01:27.19,Default,Keita,0,0,0,,Als ob sich die Götter für jeden die Zeit nehmen...
 Dialogue: 0,0:01:28.00,0:01:32.44,Default,Keita,0,0,0,,Aber, wenn ich einen besonderen Glücksbringer nur für mich hätte, würde ich ihn nehmen.
-Dialogue: 0,0:03:05.95,0:03:08.91,Signs02,Text,0,0,0,,{\fscx75\fad(0,0)\fs60\be1\pos(902,583)}Turn to God in Times of Suffering
-Dialogue: 0,0:03:12.85,0:03:13.58,Default,Riko,0,0,0,,OK!
-Dialogue: 0,0:03:14.30,0:03:15.96,Default,Keita,0,0,0,,OK! Let's do this!
-Dialogue: 0,0:03:15.96,0:03:18.30,Default,Ako,0,0,0,,Doing your best, aren't you?
-Dialogue: 0,0:03:18.30,0:03:23.68,Default,Keita,0,0,0,,It's the home stretch after all! I won't let myself get distracted while studying!
-Dialogue: 0,0:03:26.52,0:03:29.77,Default,Ako,0,0,0,,I'll make some tea for you then. {"Ageru" indicates doing something for someone - Ero_Yatsu}
-Dialogue: 0,0:03:32.76,0:03:34.08,Default,Keita,0,0,0,,Thanks.
-Dialogue: 0,0:03:44.30,0:03:45.32,Default,Riko,0,0,0,,Keita, wear this.
-Dialogue: 0,0:03:47.90,0:03:49.20,Default,Keita,0,0,0,,A headband?
-Dialogue: 0,0:03:49.49,0:03:55.24,Default,Riko,0,0,0,,I made it. It's a special divine headband for success, just for you. {That's the gist of what she says, not in any way literal -Pipelynx}{Maybe "success" instead of "winners" for the final edit? - Ero_Yatsu}
-Dialogue: 0,0:03:53.71,0:03:55.24,Note,Text,0,0,0,,Headband: Certain victory {Hisshou}
-Dialogue: 0,0:03:55.24,0:03:56.00,Default,Keita,0,0,0,,Thank you!
-Dialogue: 0,0:03:58.54,0:03:59.30,Default,Riko,0,0,0,,How is it?
-Dialogue: 0,0:03:59.30,0:04:03.80,Default,Keita,0,0,0,,Yeah, I feel hyped up already! It works.
-Dialogue: 0,0:04:04.83,0:04:06.22,Default,Riko,0,0,0,,That's great!
-Dialogue: 0,0:04:06.50,0:04:11.10,Default,Keita,0,0,0,,OK, let's try hard. Thanks, Riko-nee!
-Dialogue: 0,0:04:11.41,0:04:13.02,Default,Ako,0,0,0,,Ah, Kei-chan.
-Dialogue: 0,0:04:13.60,0:04:15.82,Default,Ako,0,0,0,,Damn, she beat me to it.
-Dialogue: 0,0:04:22.81,0:04:26.56,Default,Keita,0,0,0,,The headband does make a difference. It really is a must for exam applicants.
-Dialogue: 0,0:04:26.56,0:04:28.45,Default,Riko,0,0,0,,Give it your best shot, Keita.
-Dialogue: 0,0:04:28.45,0:04:30.83,Default,Keita,0,0,0,,I sure will, for your sake as well!
-Dialogue: 0,0:04:35.71,0:04:38.09,Default,Ako,0,0,0,,Kei-chan, a late-night snack!
-Dialogue: 0,0:04:40.35,0:04:42.08,Default,Keita,0,0,0,,This rocks. It's Katsudon!
-Dialogue: 0,0:04:42.08,0:04:46.22,Note,Note,0,0,0,,Katsu means "to win" {I can't translate this without a TL note}
-Dialogue: 0,0:04:42.08,0:04:46.22,Default,Ako,0,0,0,,Katsu for winning. Overused, but still.
-Dialogue: 0,0:04:47.30,0:04:49.05,Default,Riko,0,0,0,,Ako, you...
-Dialogue: 0,0:04:50.06,0:04:51.97,Default,Ako,0,0,0,,Now it's my turn.
-Dialogue: 0,0:04:51.97,0:04:53.98,Default,Keita,0,0,0,,I'm digging in! {translate this? -Pipelynx}
-Dialogue: 0,0:04:55.60,0:04:57.12,Default,Keita,0,0,0,,It's delicious!
-Dialogue: 0,0:04:57.94,0:05:01.67,Default,Ako,0,0,0,,You're eating like you haven't had any dinner.
-Dialogue: 0,0:05:01.67,0:05:05.93,Default,Keita,0,0,0,,That's because it's really good! Ako-nee's late-night snacks are the best!
-Dialogue: 0,0:05:05.93,0:05:07.59,Default,Ako,0,0,0,,Tomorrow it'll be a cutlet sandwich. {She says "katsu sando", which is not specific of what type of meat, so I see no reason to specify. - Ero_Yatsu}
-Dialogue: 0,0:05:07.59,0:05:08.59,Default,Keita,0,0,0,,Great!
-Dialogue: 0,0:05:08.59,0:05:13.50,Default,Ako,0,0,0,,I'll cook special meals for you until the exam, so look forward to it!
-Dialogue: 0,0:05:14.89,0:05:17.88,Default,Keita,0,0,0,,I get the feeling I'm going to pass with flying colours! {We do use british english, right? -Pipelynx}
-Dialogue: 0,0:05:18.22,0:05:19.21,Default,Ako,0,0,0,,That's great!
-Dialogue: 0,0:05:26.66,0:05:28.14,Default,Keita,0,0,0,,Thanks for the meal. {Somehow it seems appropriate to translate this, but not itadakimasu -Pipelynx}
-Dialogue: 0,0:05:28.34,0:05:29.65,Default,Ako,0,0,0,,It was my pleasure. {Osamatsusama, found nothing definite on the internet, imagine it to mean that -Pipelynx}
-Dialogue: 0,0:05:29.65,0:05:31.15,Default,Keita,0,0,0,,It was delicious.
-Dialogue: 0,0:05:31.15,0:05:33.26,Default,Ako,0,0,0,,There's an apple for dessert.
-Dialogue: 0,0:05:33.26,0:05:36.72,Note,Ako,0,0,0,,Pun on "appu" = up and "appuru" = apple
-Dialogue: 0,0:05:33.26,0:05:36.72,Default,Ako,0,0,0,,Knowledge up-pple or something. {Does this work? it's a pun on "appu"=up and "appuru"=apple, I guess -Pipelynx}
-Dialogue: 0,0:05:41.04,0:05:43.03,Default,Keita,0,0,0,,Ako-nee, it was delicious.
-Dialogue: 0,0:05:48.29,0:05:48.99,Default,Keita,0,0,0,,What?
-Dialogue: 0,0:05:51.18,0:05:51.95,Default,Keita,0,0,0,,Ouch!
-Dialogue: 0,0:05:53.21,0:05:54.75,Default,Keita,0,0,0,,Riko-nee, what are you doing?
-Dialogue: 0,0:05:56.76,0:06:00.04,Default,Riko,0,0,0,,I know I can only make headbands.
-Dialogue: 0,0:06:00.99,0:06:03.46,Default,Keita,0,0,0,,What's this about? I'm not letting you kick me like this.
-Dialogue: 0,0:06:03.46,0:06:05.88,Default,Riko,0,0,0,,Ouch, ouch, ouch!
-Dialogue: 0,0:06:05.88,0:06:09.50,Default,Riko,0,0,0,,You're still just a kid if you're getting serious over this.
-Dialogue: 0,0:06:09.50,0:06:11.29,Default,Keita,0,0,0,,You're the kid for starting!
-Dialogue: 0,0:06:11.29,0:06:12.55,Default,Riko,0,0,0,,What about me is kid-like?
-Dialogue: 0,0:06:12.55,0:06:13.97,Default,Keita,0,0,0,,Your height!
-Dialogue: 0,0:06:13.97,0:06:16.31,Default,Riko,0,0,0,,Judging by appearance...
-Dialogue: 0,0:06:19.85,0:06:21.60,Default,Keita,0,0,0,,I'm sorry, did I hurt you?
+Dialogue: 0,0:03:05.95,0:03:08.91,Signs02,Text,0,0,0,,{\fscx75\fad(0,0)\fs60\be1\pos(902,583)}{Title:}Wenn du leidest, wende dich an Gott
+Dialogue: 0,0:03:12.85,0:03:13.58,Default,Riko,0,0,0,,Ich hab's!
+Dialogue: 0,0:03:14.30,0:03:15.96,Default,Keita,0,0,0,,Los geht's!
+Dialogue: 0,0:03:15.96,0:03:18.30,Default,Ako,0,0,0,,Du gibst wirklich alles, hm?
+Dialogue: 0,0:03:18.30,0:03:20.44,Default,Keita,0,0,0,,Immerhin ist das der Endspurt!
+Dialogue: 0,0:03:20.44,0:03:23.68,Default,,0,0,0,,Ich darf mich jetzt nicht ablenken lassen.
+Dialogue: 0,0:03:26.52,0:03:29.77,Default,Ako,0,0,0,,Dann mache ich dir einen Tee. {"Ageru" indicates doing something for someone - Ero_Yatsu}
+Dialogue: 0,0:03:32.76,0:03:34.08,Default,Keita,0,0,0,,Danke.
+Dialogue: 0,0:03:44.30,0:03:45.32,Default,Riko,0,0,0,,Keita, leg das an.
+Dialogue: 0,0:03:47.90,0:03:49.20,Default,Keita,0,0,0,,Ein Stirnband?
+Dialogue: 0,0:03:49.20,0:03:50.96,Default,,0,0,0,,Hab ich gemacht.
+Dialogue: 0,0:03:50.96,0:03:55.24,Default,Riko,0,0,0,,Ein spezielles Erfolgsstirnband, extra für dich. {That's the gist of what she says, not in any way literal -Pipelynx}{Maybe "success" instead of "winners" for the final edit? - Ero_Yatsu}
+Dialogue: 0,0:03:53.71,0:03:54.50,Note,Text,0,0,0,,{\fnHandwritten Crystal v2\fs90\c&H4655C8&\3c&H343D75&\frz16.07\pos(629.143,544.572)}Sicherer Sieg{Hisshou}
+Dialogue: 0,0:03:55.24,0:03:56.00,Default,Keita,0,0,0,,Danke.
+Dialogue: 0,0:03:58.54,0:03:59.30,Default,Riko,0,0,0,,Und?
+Dialogue: 0,0:03:59.30,0:04:03.80,Default,Keita,0,0,0,,Es funktioniert, ich fühle mich schon konzentrierter.
+Dialogue: 0,0:04:04.83,0:04:06.22,Default,Riko,0,0,0,,Da bin ich aber froh.
+Dialogue: 0,0:04:06.50,0:04:11.10,Default,Keita,0,0,0,,Okay, auf geht's. Danke, Riko-nee!
+Dialogue: 0,0:04:13.60,0:04:15.82,Default,Ako,0,0,0,,Sie ist mir wieder einen Schritt voraus.
+Dialogue: 0,0:04:22.81,0:04:26.56,Default,Keita,0,0,0,,Das Stirnband macht wirklich einen Unterschied, ich kann schon gar nicht mehr ohne.
+Dialogue: 0,0:04:26.56,0:04:28.45,Default,Riko,0,0,0,,Gib dein Bestes, Keita.
+Dialogue: 0,0:04:28.45,0:04:30.83,Default,Keita,0,0,0,,Auf jeden Fall. Auch für dich, Riko-nee.
+Dialogue: 0,0:04:35.71,0:04:38.09,Default,Ako,0,0,0,,Kei-chan, dein Mitternachtssnack!
+Dialogue: 0,0:04:40.35,0:04:42.08,Default,Keita,0,0,0,,Nice, Katsudon!
+Dialogue: 0,0:04:42.08,0:04:46.22,Note,Note,0,0,0,,Katsu bedeutet "gewinnen" {I can't translate this without a TL note}
+Dialogue: 0,0:04:42.08,0:04:43.98,Default,Ako,0,0,0,,Damit du deine Prüfungen "gewinnst".
+Dialogue: 0,0:04:43.98,0:04:45.98,Default,,0,0,0,,Ist zwar nur ein Klischee, aber trotzdem...
+Dialogue: 0,0:04:47.30,0:04:49.05,Default,Riko,0,0,0,,Ako, du...
+Dialogue: 0,0:04:50.06,0:04:51.97,Default,Ako,0,0,0,,Sehe zu und lerne.
+Dialogue: 0,0:04:55.60,0:04:57.12,Default,Keita,0,0,0,,Mmmh!
+Dialogue: 0,0:04:57.94,0:05:01.67,Default,Ako,0,0,0,,Du isst, als hättest du kein Abendessen gehabt.
+Dialogue: 0,0:05:01.67,0:05:05.93,Default,Keita,0,0,0,,Weil es so gut schmeckt. Deine Snacks sind die besten!
+Dialogue: 0,0:05:05.93,0:05:07.59,Default,Ako,0,0,0,,Morgen gibt es ein Schnitzelbrötchen. {She says "katsu sando", which is not specific of what type of meat, so I see no reason to specify. - Ero_Yatsu}
+Dialogue: 0,0:05:07.59,0:05:08.59,Default,Keita,0,0,0,,Jaa!
+Dialogue: 0,0:05:08.59,0:05:13.50,Default,Ako,0,0,0,,Bis zu den Prüfungen werde ich für dich jede Nacht ein spezielles Sieger-Menü kochen.
+Dialogue: 0,0:05:14.89,0:05:17.88,Default,Keita,0,0,0,,Ich hab das Gefühl, dass ich so was von bestehen werde!
+Dialogue: 0,0:05:18.22,0:05:19.21,Default,Ako,0,0,0,,Schön.
+Dialogue: 0,0:05:26.66,0:05:28.14,Default,Keita,0,0,0,,Danke für das Essen.
+Dialogue: 0,0:05:28.34,0:05:29.65,Default,Ako,0,0,0,,Gerne doch. {Osamatsusama, found nothing definite on the internet, imagine it to mean that -Pipelynx}
+Dialogue: 0,0:05:29.65,0:05:31.15,Default,Keita,0,0,0,,Es war so lecker.
+Dialogue: 0,0:05:31.15,0:05:33.26,Default,Ako,0,0,0,,Zum Nachtisch gibt es einen Appuru.
+Dialogue: 0,0:05:33.26,0:05:36.72,Note,Ako,0,0,0,,"appu" = oben\N"appuru" = Apfel
+Dialogue: 0,0:05:33.26,0:05:34.92,Default,Ako,0,0,0,,Damit deine Noten nach appu gehen. {Does this work? it's a pun on "appu"=up and "appuru"=apple, I guess -Pipelynx}
+Dialogue: 0,0:05:34.92,0:05:36.92,Default,,0,0,0,,Badumm-Tss...
+Dialogue: 0,0:05:41.04,0:05:43.03,Default,Keita,0,0,0,,Ako-nee, es war köstlich.
+Dialogue: 0,0:05:48.29,0:05:48.99,Default,Keita,0,0,0,,Was ist?
+Dialogue: 0,0:05:51.18,0:05:51.95,Default,Keita,0,0,0,,Au!
+Dialogue: 0,0:05:53.21,0:05:54.75,Default,Keita,0,0,0,,Riko-nee, was soll das?
+Dialogue: 0,0:05:56.76,0:06:00.54,Default,Riko,0,0,0,,Jaja, mehr als Stoffbänder für dich zu machen kann ich nicht.
+Dialogue: 0,0:06:00.99,0:06:03.46,Default,Keita,0,0,0,,Ich lasse mich nicht einfach so von dir treten!
+Dialogue: 0,0:06:03.46,0:06:05.88,Default,Riko,0,0,0,,Aua, aua, aua!
+Dialogue: 0,0:06:05.88,0:06:09.50,Default,Riko,0,0,0,,Du musst alles gleich so ernst nehmen, wie ein kleines Kind.
+Dialogue: 0,0:06:09.50,0:06:11.29,Default,Keita,0,0,0,,Wer angefangen hat, ist das Kind.
+Dialogue: 0,0:06:11.29,0:06:12.55,Default,Riko,0,0,0,,Was ist an mir kindisch?
+Dialogue: 0,0:06:12.55,0:06:13.97,Default,Keita,0,0,0,,Deine Größe.
+Dialogue: 0,0:06:13.97,0:06:16.31,Default,Riko,0,0,0,,Mich nach meinem Aussehen beurteilen...
+Dialogue: 0,0:06:19.85,0:06:21.60,Default,Keita,0,0,0,,Sorry, hab ich dir weh getan?
 Dialogue: 0,0:06:22.99,0:06:23.98,Default,Keita,0,0,0,,Riko-nee?
-Dialogue: 0,0:06:27.72,0:06:29.36,Default,Keita,0,0,0,,Are you okay, Riko-nee?
-Dialogue: 0,0:06:29.64,0:06:32.16,Default,Riko,0,0,0,,Geez, that's not good.
-Dialogue: 0,0:06:33.26,0:06:35.29,Default,Keita,0,0,0,,As I said, I'm sorry.
-Dialogue: 0,0:06:36.31,0:06:37.45,Default,Riko,0,0,0,,You did it on purpose.
-Dialogue: 0,0:06:37.45,0:06:39.26,Default,Keita,0,0,0,,W-What?
-Dialogue: 0,0:06:39.26,0:06:44.37,Default,Riko,0,0,0,,We were just fooling around, but you like it better that way, don't you?
-Dialogue: 0,0:06:44.37,0:06:45.86,Default,Keita,0,0,0,,Like I said, what?
-Dialogue: 0,0:06:45.86,0:06:50.05,Default,Riko,0,0,0,,Surely, you know where your foot hit me.
-Dialogue: 0,0:06:53.68,0:06:55.93,Default,Riko,0,0,0,,Say it. Where is this?
-Dialogue: 0,0:06:57.75,0:06:59.52,Default,Keita,0,0,0,,Th-There.
-Dialogue: 0,0:06:59.76,0:07:01.85,Default,Riko,0,0,0,,I won't know with just "there".
-Dialogue: 0,0:07:01.85,0:07:03.06,Default,Riko,0,0,0,,Tell me precisely.
-Dialogue: 0,0:07:03.30,0:07:04.40,Default,Keita,0,0,0,,I won't!
-Dialogue: 0,0:07:05.82,0:07:07.57,Default,Riko,0,0,0,,You're to blame, just so you know.
+Dialogue: 0,0:06:27.72,0:06:29.36,Default,Keita,0,0,0,,Alles okay, Riko-nee?
+Dialogue: 0,0:06:29.64,0:06:32.16,Default,Riko,0,0,0,,Unartiger Junge.
+Dialogue: 0,0:06:33.26,0:06:35.29,Default,Keita,0,0,0,,Ich hab mich doch entschuldigt.
+Dialogue: 0,0:06:36.31,0:06:37.45,Default,Riko,0,0,0,,Es war Absicht, oder?
+Dialogue: 0,0:06:37.45,0:06:39.26,Default,Keita,0,0,0,,W-Was?
+Dialogue: 0,0:06:39.26,0:06:44.37,Default,Riko,0,0,0,,Wir haben nur etwas Spaß gemacht, aber du willst noch viel mehr Spaß haben, richtig?
+Dialogue: 0,0:06:44.37,0:06:45.86,Default,Keita,0,0,0,,Was meinst du denn?
+Dialogue: 0,0:06:45.86,0:06:50.05,Default,Riko,0,0,0,,Weißt du wo dein Fuß gelandet ist?
+Dialogue: 0,0:06:53.68,0:06:55.93,Default,Riko,0,0,0,,Na, wo ist er?
+Dialogue: 0,0:06:57.75,0:06:59.52,Default,Keita,0,0,0,,D-Da...
+Dialogue: 0,0:06:59.52,0:07:01.85,Default,Riko,0,0,0,,Keine Ahnung was du meinst, wenn du nur "da" sagst.
+Dialogue: 0,0:07:01.85,0:07:03.06,Default,Riko,0,0,0,,Sag es genauer.
+Dialogue: 0,0:07:03.30,0:07:04.40,Default,Keita,0,0,0,,Werde ich nicht.
+Dialogue: 0,0:07:05.82,0:07:07.57,Default,Riko,0,0,0,,Das ist jetzt deine Schuld.
 Dialogue: 0,0:07:08.57,0:07:11.34,Default,Keita,0,0,0,,Riko-nee! Hey!
-Dialogue: 0,0:07:11.34,0:07:15.94,Default,Riko,0,0,0,,No. I'll teach you that I'm not a kid.
-Dialogue: 0,0:07:15.94,0:07:17.52,Default,Keita,0,0,0,,How am I going to...
-Dialogue: 0,0:07:17.52,0:07:19.75,Default,Riko,0,0,0,,...understand like this? Just wait.
-Dialogue: 0,0:07:19.75,0:07:22.25,Default,Riko,0,0,0,,We saw each other naked in the bathtub, too.
-Dialogue: 0,0:07:22.25,0:07:26.32,Default,Keita,0,0,0,,We didn't see each other. That was more like an accident.
-Dialogue: 0,0:07:26.32,0:07:28.05,Default,Riko,0,0,0,,You already accidentally saw my pussy. {"tamatama mou bobo mita" bobo is crude slang for "cunt", so I recommend at least "pussy" - Ero_Yatsu}
-Dialogue: 0,0:07:28.05,0:07:29.34,Default,Keita,0,0,0,,Don't say pussy! {"bobo to ka iu na!" Ero_Yatsu}
-Dialogue: 0,0:07:31.56,0:07:37.14,Default,Riko,0,0,0,,But I do remember, the feeling of your hand hitting me there.
-Dialogue: 0,0:07:37.61,0:07:39.99,Default,Riko,0,0,0,,Clearly, even now...
-Dialogue: 0,0:07:44.34,0:07:47.53,Default,Riko,0,0,0,,I'm getting turned on... {Funny how that fits what she's saying... -Pipelynx}
-Dialogue: 0,0:07:49.54,0:07:52.31,Default,Riko,0,0,0,,My panties are going to get dirty. {Not literal, it's more like "they're going to get dirty" - Ero Yatsu}
-Dialogue: 0,0:07:54.78,0:07:58.21,Default,Keita,0,0,0,,Riko-nee, what are you doing with my foot?
-Dialogue: 0,0:07:58.66,0:08:02.68,Default,Riko,0,0,0,,I came. Incredible. {Well, she came. -Pipelynx}
-Dialogue: 0,0:08:02.68,0:08:04.74,Default,Keita,0,0,0,,Stop it already!
-Dialogue: 0,0:08:05.59,0:08:07.04,Default,Keita,0,0,0,,Moisture?
-Dialogue: 0,0:08:07.04,0:08:11.76,Default,Riko,0,0,0,,Can you tell? Can you feel me soaking your feet? {Ah, wakaru? Keita no kutsushita onee-chan no ga shimikondeku no -Pipelynx}
-Dialogue: 0,0:08:12.00,0:08:13.09,Default,Keita,0,0,0,,Soa...
-Dialogue: 0,0:08:13.71,0:08:17.47,Default,Riko,0,0,0,,I'm sorry, but, it won't stop.
-Dialogue: 0,0:08:22.16,0:08:24.77,Default,Riko,0,0,0,,Your foot is quite big.
-Dialogue: 0,0:08:25.16,0:08:28.57,Default,Riko,0,0,0,,I might like your foot better than your hand.
-Dialogue: 0,0:08:28.57,0:08:30.69,Default,Keita,0,0,0,,Riko-nee looks kind of cute.
-Dialogue: 0,0:08:33.94,0:08:36.32,Default,Riko,0,0,0,,Don't stare at me like that.
-Dialogue: 0,0:08:36.32,0:08:40.74,Default,Keita,0,0,0,,Isn't this your fault? There's no way I can take my eyes off you.
-Dialogue: 0,0:08:41.92,0:08:46.17,Default,Riko,0,0,0,,It's okay, keep watching. Or rather, I want you to watch.
-Dialogue: 0,0:08:51.71,0:08:56.51,Default,Riko,0,0,0,,Is it disgraceful for a sister to get off on her little brother's foot?
-Dialogue: 0,0:08:57.08,0:09:01.35,Default,Keita,0,0,0,,Yeah, doing this is totally disgraceful.
-Dialogue: 0,0:09:02.98,0:09:04.44,Default,Keita,0,0,0,,Sorry, was that too strong?
-Dialogue: 0,0:09:05.32,0:09:07.94,Default,Riko,0,0,0,,That... felt really good.
-Dialogue: 0,0:09:09.21,0:09:12.06,Default,Riko,0,0,0,,I might be ruined for marriage.
-Dialogue: 0,0:09:13.87,0:09:16.32,Default,Riko,0,0,0,,At least say you'll take responsibility.
-Dialogue: 0,0:09:16.32,0:09:17.70,Default,Keita,0,0,0,,Well...
-Dialogue: 0,0:09:18.02,0:09:21.41,Default,Riko,0,0,0,,You don't want to? Or do you think it's a joke?
-Dialogue: 0,0:09:22.59,0:09:26.08,Default,Riko,0,0,0,,You can't  joke about things like this.{for the lols}{lol}
+Dialogue: 0,0:07:11.34,0:07:15.94,Default,Riko,0,0,0,,Jetzt zeige ich dir, dass ich kein Kind mehr bin.
+Dialogue: 0,0:07:15.94,0:07:17.52,Default,Keita,0,0,0,,Wie sollst du mir das zeigen...
+Dialogue: 0,0:07:17.52,0:07:19.75,Default,Riko,0,0,0,,Warte einfach ab.
+Dialogue: 0,0:07:19.75,0:07:22.46,Default,Riko,0,0,0,,Wir haben uns ja auch schon beim Baden nackt gesehen.
+Dialogue: 0,0:07:22.46,0:07:26.32,Default,Keita,0,0,0,,Nicht wirklich. Das war vielmehr ein Unfall...
+Dialogue: 0,0:07:26.32,0:07:28.05,Default,Riko,0,0,0,,Doch, du hast meine Pussy gesehen. {im englischen "pussy" oder "cunt". also fotze/muschi/scheide}
+Dialogue: 0,0:07:28.05,0:07:29.34,Default,Keita,0,0,0,,Sag nicht "Pussy"! {"bobo to ka iu na!" Ero_Yatsu}
+Dialogue: 0,0:07:31.56,0:07:37.14,Default,Riko,0,0,0,,Und ich erinnere mich an das Gefühl deiner Hand dort unten...
+Dialogue: 0,0:07:37.61,0:07:39.99,Default,Riko,0,0,0,,Genau wie jetzt.
+Dialogue: 0,0:07:44.34,0:07:47.53,Default,Riko,0,0,0,,Das erregt mich...
+Dialogue: 0,0:07:49.54,0:07:52.31,Default,Riko,0,0,0,,Meine Unterhose wird noch schmutzig.
+Dialogue: 0,0:07:54.78,0:07:58.21,Default,Keita,0,0,0,,Riko-nee, was machst du mit meinem Fuß??
+Dialogue: 0,0:07:58.66,0:08:02.68,Default,Riko,0,0,0,,Ich komme. Unglaublich.
+Dialogue: 0,0:08:02.68,0:08:04.74,Default,Keita,0,0,0,,Hör sofort auf damit.
+Dialogue: 0,0:08:05.59,0:08:07.04,Default,Keita,0,0,0,,Nass?
+Dialogue: 0,0:08:07.04,0:08:08.36,Default,Riko,0,0,0,,Sag, 
+Dialogue: 0,0:08:08.36,0:08:11.76,Default,Riko,0,0,0,,fühlst du wie deine Socken es aufsaugen? {Ah, wakaru? Keita no kutsushita onee-chan no ga shimikondeku no -Pipelynx}
+Dialogue: 0,0:08:12.00,0:08:13.09,Default,Keita,0,0,0,,Aufsaug...
+Dialogue: 0,0:08:13.71,0:08:17.47,Default,Riko,0,0,0,,Tut mir leid. Und trotzdem... mache ich weiter.
+Dialogue: 0,0:08:22.16,0:08:24.77,Default,Riko,0,0,0,,Dein Fuß ist ziemlich groß, hm?
+Dialogue: 0,0:08:25.16,0:08:28.57,Default,Riko,0,0,0,,Der Fuß ist mir lieber als deine Hand...
+Dialogue: 0,0:08:28.57,0:08:30.69,Default,Keita,0,0,0,,Riko-nee sieht irgendwie süß aus.
+Dialogue: 0,0:08:33.94,0:08:36.32,Default,Riko,0,0,0,,Starr mich nicht so an.
+Dialogue: 0,0:08:36.32,0:08:38.24,Default,Keita,0,0,0,,Ist das nicht deine Schuld?
+Dialogue: 0,0:08:38.24,0:08:40.75,Default,Keita,0,0,0,,Ich kann meine Augen nicht von dir lassen.
+Dialogue: 0,0:08:41.58,0:08:43.50,Default,Riko,0,0,0,,Schon gut, du darfst schauen.
+Dialogue: 0,0:08:43.50,0:08:46.92,Default,Riko,0,0,0,,Nein, bitte. Ich will, dass du schaust.
+Dialogue: 0,0:08:51.71,0:08:56.51,Default,Riko,0,0,0,,Macht es aus mir eine schlechte Schwester, wenn ich mich mit deinem Fuß befriedige?
+Dialogue: 0,0:08:57.08,0:09:01.35,Default,Keita,0,0,0,,Ja, das sehr unartig.
+Dialogue: 0,0:09:02.98,0:09:04.44,Default,Keita,0,0,0,,Sorry, war das zu fest?
+Dialogue: 0,0:09:05.32,0:09:07.94,Default,Riko,0,0,0,,Das... hat sich toll angefühlt.
+Dialogue: 0,0:09:09.21,0:09:12.06,Default,Riko,0,0,0,,Jetzt kann ich wohl nicht mehr Heiraten...
+Dialogue: 0,0:09:13.87,0:09:16.32,Default,Riko,0,0,0,,Sag doch wenigstens, dass du die Verantwortung dafür übernimmst.
+Dialogue: 0,0:09:16.32,0:09:17.70,Default,Keita,0,0,0,,Ähm...
+Dialogue: 0,0:09:18.02,0:09:21.41,Default,Riko,0,0,0,,Willst du nicht? Oder glaubst du ich mache Witze?
+Dialogue: 0,0:09:22.59,0:09:26.08,Default,Riko,0,0,0,,Über sowas würde ich nie Witze machen.
 Dialogue: 0,0:09:27.40,0:09:28.83,Default,Keita,0,0,0,,Riko-nee...
-Dialogue: 0,0:09:34.01,0:09:35.97,Default,Ako,0,0,0,,Kei-chan, sorry for the wait!
-Dialogue: 0,0:09:35.97,0:09:37.30,Default,Ako,0,0,0,,Uh, what's the matter? {Added by Crust, if it's needed.}
-Dialogue: 0,0:09:37.30,0:09:39.72,Default,Keita,0,0,0,,Erm, no, nothing.
-Dialogue: 0,0:09:40.01,0:09:41.32,Default,Riko,0,0,0,,It's nothing.
-Dialogue: 0,0:09:43.49,0:09:46.32,Default,Ako,0,0,0,,Oh, Riko, your face is really red.
-Dialogue: 0,0:09:46.32,0:09:48.98,Default,Riko,0,0,0,,Maybe it's getting hot in here.
-Dialogue: 0,0:09:49.64,0:09:51.61,Default,Ako,0,0,0,,Then why don't you get out of the kotatsu?
-Dialogue: 0,0:09:49.64,0:09:51.61,Note,Ako,0,0,0,,kotatsu = table with heater
-Dialogue: 0,0:09:51.61,0:09:53.91,Default,Ako,0,0,0,,Kei-chan, you're sweating, too!
-Dialogue: 0,0:09:53.91,0:09:57.95,Default,Keita,0,0,0,,Yeah, it's hot, I'll just...
-Dialogue: 0,0:10:00.75,0:10:01.84,Default,Keita,0,0,0,,...stay here. {I have no way to convey this use of japanese sentence structure -Pipelynx}{Maybe make line 140 "Yeah it's hot so I'll..." and 141 "...not get out" - Ero_Yatsu}
-Dialogue: 0,0:10:01.84,0:10:02.66,Default,Ako,0,0,0,,What's going on?
-Dialogue: 0,0:10:02.66,0:10:05.41,Default,Keita(thinking),0,0,0,,To be honest, I can't.
-Dialogue: 0,0:10:05.66,0:10:08.52,Default,Riko,0,0,0,,Keita, are you...
-Dialogue: 0,0:10:08.52,0:10:09.92,Default,Ako,0,0,0,,You're not going to eat your apples?
-Dialogue: 0,0:10:09.92,0:10:12.12,Default,Keita,0,0,0,,I... I'll eat them!
-Dialogue: 0,0:10:14.62,0:10:15.64,Default,Ako,0,0,0,,What's wrong?
-Dialogue: 0,0:10:15.64,0:10:17.01,Default,Keita,0,0,0,,No...
-Dialogue: 0,0:10:17.01,0:10:19.93,Default,Keita(thinking),0,0,0,,Riko-nee, why now you idiot? {"Riko-nee, kono joukyou de ahou ka?" Literally "Riko-nee, in this situation? Are you an idiot?" - Ero_Yatsu}
-Dialogue: 0,0:10:21.28,0:10:24.93,Default,Riko(thinking),0,0,0,,As I thought, I got Keita big. I'm so happy!{Would "I'm happy!" be more appropriate? - Crust}{"natteta" makes it past tense - Ero_Yatsu}
-Dialogue: 0,0:10:28.23,0:10:32.06,Default,Keita(thinking),0,0,0,,These are just thin sweatpants so I can feel her toes...
-Dialogue: 0,0:10:32.40,0:10:37.82,Default,Riko(thinking),0,0,0,,Keita, you're not only getting big, but also hot and ready to burst...
-Dialogue: 0,0:10:41.55,0:10:43.03,Default,Keita+Riko,0,0,0,,I can feel it...
-Dialogue: 0,0:10:43.32,0:10:46.03,Default,Ako,0,0,0,,What is going on here?
-Dialogue: 0,0:10:53.51,0:10:55.50,Default,Ako,0,0,0,,What the hell are you two doing?!
-Dialogue: 0,0:10:58.88,0:11:03.80,Default,Ako,0,0,0,,What are you doing, keeping Keita from studying all the time? What will you do if he fails?
-Dialogue: 0,0:11:04.04,0:11:06.37,Default,Riko,0,0,0,,I'll take responsibility and care for him?
-Dialogue: 0,0:11:06.37,0:11:07.89,Default,Ako,0,0,0,,Are you going to make him your gigolo? {"Juusastsu de himo ni suru ki?" I don't get the juusatsu -Pipelynx}{I think it's "jiyuu satsu de himo ni suru ki?" which is basically the same meaning - Ero_Yatsu}
-Dialogue: 0,0:11:08.22,0:11:13.03,Default,Ako,0,0,0,,Stop fooling around. At least try to help Kei-chan pass the...
-Dialogue: 0,0:11:13.53,0:11:15.22,Default,Riko,0,0,0,,Where did all these people come from?
-Dialogue: 0,0:11:15.22,0:11:17.44,Default,Ako,0,0,0,,It's really not long until the exams.
-Dialogue: 0,0:11:19.22,0:11:20.45,Default,Riko,0,0,0,,Hey, it's Toda.
+Dialogue: 0,0:09:34.01,0:09:35.97,Default,Ako,0,0,0,,Kei-chan, sorry hat länger gedauert...
+Dialogue: 0,0:09:35.97,0:09:37.30,Default,Ako,0,0,0,,Hä, ist was?
+Dialogue: 0,0:09:37.30,0:09:39.72,Default,Keita,0,0,0,,Ähm, nein, nichts.
+Dialogue: 0,0:09:40.01,0:09:41.32,Default,Riko,0,0,0,,Ach nichts.
+Dialogue: 0,0:09:44.28,0:09:46.32,Default,Ako,0,0,0,,Riko, du bist ganz rot im Gesicht.
+Dialogue: 0,0:09:46.32,0:09:48.98,Default,Riko,0,0,0,,Muss an der Hize liegen.
+Dialogue: 0,0:09:49.64,0:09:51.61,Default,Ako,0,0,0,,Warum verlässt du dann nicht das Kotatsu?
+Dialogue: 0,0:09:49.64,0:09:51.61,Note,Ako,0,0,0,,Kotatsu = Tisch mit Heizung
+Dialogue: 0,0:09:51.61,0:09:53.91,Default,Ako,0,0,0,,Kei-chan, du schwitzt ja auch!
+Dialogue: 0,0:09:53.91,0:09:57.95,Default,Keita,0,0,0,,Ja, heiß, ne. Darum werde ich jetzt gehen...
+Dialogue: 0,0:10:00.75,0:10:01.96,Default,Keita,0,0,0,,...oder auch nicht.
+Dialogue: 0,0:10:01.96,0:10:02.66,Default,Ako,0,0,0,,Was ist hier los?
+Dialogue: 0,0:10:02.66,0:10:05.41,Default,Keita(thinking),0,0,0,,Genau genommen kann ich jetzt gar nicht...
+Dialogue: 0,0:10:05.66,0:10:08.52,Default,Riko(thinking),0,0,0,,Keita, also bist du...
+Dialogue: 0,0:10:08.52,0:10:09.92,Default,Ako,0,0,0,,Willst du keine Äpfel?
+Dialogue: 0,0:10:09.92,0:10:12.12,Default,Keita,0,0,0,,Doch, ich esse sie!
+Dialogue: 0,0:10:14.62,0:10:15.64,Default,Ako,0,0,0,,Ist was?
+Dialogue: 0,0:10:15.64,0:10:17.01,Default,Keita,0,0,0,,Nein...
+Dialogue: 0,0:10:17.01,0:10:19.93,Default,Keita(thinking),0,0,0,,Riko-nee, warum genau jetzt, du Idiot?
+Dialogue: 0,0:10:21.28,0:10:24.93,Default,Riko(thinking),0,0,0,,Wie ich's mir dachte. Er ist steif. Das freut mich!
+Dialogue: 0,0:10:28.23,0:10:32.06,Default,Keita(thinking),0,0,0,,Ich fühle ihre Zehen durch meine dünne Jogginghose.
+Dialogue: 0,0:10:32.40,0:10:37.82,Default,Riko(thinking),0,0,0,,Er ist nicht nur steif, sondern auch heiß und geladen...
+Dialogue: 0,0:10:41.55,0:10:43.03,Default,Keita+Riko,0,0,0,,Ich fühle es...
+Dialogue: 0,0:10:43.32,0:10:46.03,Default,Ako,0,0,0,,Was geht hier vor sich?
+Dialogue: 0,0:10:53.51,0:10:55.50,Default,Ako,0,0,0,,Was zur Hölle treibt ihr da?!
+Dialogue: 0,0:10:58.88,0:11:03.80,Default,Ako,0,0,0,,Du lenkst Keita vom Lernen ab.\NAber was machst du, wenn er nicht besteht?
+Dialogue: 0,0:11:03.80,0:11:06.37,Default,Riko,0,0,0,,Ich bin verantwortlich und kümmere mich um ihn?
+Dialogue: 0,0:11:06.37,0:11:07.89,Default,Ako,0,0,0,,Willst du ihn zu deinem Gigolo machen?
+Dialogue: 0,0:11:08.22,0:11:13.03,Default,Ako,0,0,0,,Hör auf mit dem Quatsch und helfe ihm lieber bei...
+Dialogue: 0,0:11:13.53,0:11:15.22,Default,Riko,0,0,0,,Woher kommen die denn alle?
+Dialogue: 0,0:11:15.22,0:11:17.44,Default,Ako,0,0,0,,Bald stehen eben die Prüfungen vor der Tür.
+Dialogue: 0,0:11:19.22,0:11:20.45,Default,Riko,0,0,0,,Schau, da ist Toda.
 Dialogue: 0,0:11:21.66,0:11:23.62,Default,Toda,0,0,0,,Ako-senpai, Riko-senpai!
-Dialogue: 0,0:11:23.97,0:11:26.08,Default,Ako,0,0,0,,Are you here to pray for your exams too?
-Dialogue: 0,0:11:26.30,0:11:29.54,Default,Toda,0,0,0,,Well, at this point, begging the gods is my only chance.
-Dialogue: 0,0:11:29.54,0:11:33.96,Default,Toda,0,0,0,,I still have three to go, here! Look!
-Dialogue: 0,0:11:35.36,0:11:37.88,Default,Riko,0,0,0,,Wow, what a collection.
-Dialogue: 0,0:11:38.21,0:11:40.49,Default,Toda,0,0,0,,Yeah, it's strength in numbers, after all.
-Dialogue: 0,0:11:40.49,0:11:43.26,Default,Toda,0,0,0,,Hey, I have to go, bye!{he used "da" as "goodbye", which is probably unorthodox -Pipelynx}{"dewa", which works as translated anyways - Ero_Yatsu}
+Dialogue: 0,0:11:23.97,0:11:26.08,Default,Ako,0,0,0,,Betest du auch für deine Prüfungen?
+Dialogue: 0,0:11:26.30,0:11:29.54,Default,Toda,0,0,0,,Wenn es so weit ist, können mir nur noch die Götter helfen.
+Dialogue: 0,0:11:29.54,0:11:33.96,Default,Toda,0,0,0,,Für heute fehlen mir noch drei Schreine. Schaut!
+Dialogue: 0,0:11:35.36,0:11:37.88,Default,Riko,0,0,0,,Wow, das sind viele.
+Dialogue: 0,0:11:38.21,0:11:40.49,Default,Toda,0,0,0,,Ja, ihre Kraft erhöht sich mit ihrer Anzahl.
+Dialogue: 0,0:11:40.49,0:11:43.26,Default,Toda,0,0,0,,Muss los, hab's eilig.
 Dialogue: 0,0:11:47.94,0:11:52.49,Default,Riko,0,0,0,,This is bad. Even if we get that many victory headbands, we don't know if it'll work. {"Mazui na, Hisshou hachimaki ayashoku gurai de wakattenai kamoshiren" - Ero_Yatsu}
 Dialogue: 0,0:11:52.49,0:11:56.77,Default,Ako,0,0,0,,Even if you say that, we don't have time to accumulate that many!
 Dialogue: 0,0:11:56.77,0:11:58.74,Default,Riko,0,0,0,,Then it's a battle between numbers and quality!
