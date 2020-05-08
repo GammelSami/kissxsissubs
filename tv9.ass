@@ -157,7 +157,7 @@ Dialogue: 0,0:07:54.78,0:07:58.21,Default,Keita,0,0,0,,Riko-nee, was machst du m
 Dialogue: 0,0:07:58.66,0:08:02.68,Default,Riko,0,0,0,,Ich komme. Unglaublich.
 Dialogue: 0,0:08:02.68,0:08:04.74,Default,Keita,0,0,0,,Hör sofort auf damit.
 Dialogue: 0,0:08:05.59,0:08:07.04,Default,Keita,0,0,0,,Nass?
-Dialogue: 0,0:08:07.04,0:08:08.36,Default,Riko,0,0,0,,Sag, 
+Dialogue: 0,0:08:07.04,0:08:08.36,Default,Riko,0,0,0,,Sag,
 Dialogue: 0,0:08:08.36,0:08:11.76,Default,Riko,0,0,0,,fühlst du wie deine Socken es aufsaugen? {Ah, wakaru? Keita no kutsushita onee-chan no ga shimikondeku no -Pipelynx}
 Dialogue: 0,0:08:12.00,0:08:13.09,Default,Keita,0,0,0,,Aufsaug...
 Dialogue: 0,0:08:13.71,0:08:17.47,Default,Riko,0,0,0,,Tut mir leid. Und trotzdem... mache ich weiter.
@@ -218,170 +218,170 @@ Dialogue: 0,0:11:29.54,0:11:33.96,Default,Toda,0,0,0,,Für heute fehlen mir noch
 Dialogue: 0,0:11:35.36,0:11:37.88,Default,Riko,0,0,0,,Wow, das sind viele.
 Dialogue: 0,0:11:38.21,0:11:40.49,Default,Toda,0,0,0,,Ja, ihre Kraft erhöht sich mit ihrer Anzahl.
 Dialogue: 0,0:11:40.49,0:11:43.26,Default,Toda,0,0,0,,Muss los, hab's eilig.
-Dialogue: 0,0:11:47.94,0:11:52.49,Default,Riko,0,0,0,,This is bad. Even if we get that many victory headbands, we don't know if it'll work. {"Mazui na, Hisshou hachimaki ayashoku gurai de wakattenai kamoshiren" - Ero_Yatsu}
-Dialogue: 0,0:11:52.49,0:11:56.77,Default,Ako,0,0,0,,Even if you say that, we don't have time to accumulate that many!
-Dialogue: 0,0:11:56.77,0:11:58.74,Default,Riko,0,0,0,,Then it's a battle between numbers and quality!
-Dialogue: 0,0:12:16.75,0:12:18.09,Default,Search text,0,0,0,,{\fs40\fnArial Black\frz1.77\bord0\shad0\c&H7F7E81&\blur0.5\pos(400,385)}Charm {Omamori}
-Dialogue: 0,0:12:18.17,0:12:19.21,Default,Search text,0,0,0,,{\fad(0,300)\fs40\fnArial Black\frz1.77\bord0\shad0\c&H7F7E81&\blur0.5\pos(387,115)}Charm {Omamori}
-Dialogue: 0,0:12:22.67,0:12:24.00,Default,Riko,0,0,0,,How's it going?
-Dialogue: 0,0:12:24.00,0:12:25.68,Default,Ako,0,0,0,,What're you here for?
-Dialogue: 0,0:12:25.68,0:12:27.91,Default,Riko,0,0,0,,You doing this alone worries me.
-Dialogue: 0,0:12:27.91,0:12:30.14,Default,Riko,0,0,0,,You're probably looking up unnecessary things.
-Dialogue: 0,0:12:30.14,0:12:31.34,Default,Ako,0,0,0,,I'm not!
-Dialogue: 0,0:12:31.34,0:12:33.35,Default,Riko,0,0,0,,Oh, there's something that looks good.
-Dialogue: 0,0:12:34.85,0:12:41.46,Default,Riko,0,0,0,,Erm, "It's been said to have an effect on competitions like exams and gambling."
-Dialogue: 0,0:12:40.53,0:12:41.78,Default,Upper most line,0,0,0,,{\blur1\fs70\fnarial black\bord0\shad0\c&H7F7E81&\frz358.792\pos(737,128)\frx4\fry8}A wife or lover's pubic hair as a charm {tsuma ya koibito no inmou wo omamori toshite}
-Dialogue: 0,0:12:43.11,0:12:44.03,Default,Text,0,0,0,,{\blur1\fs90\fnarial black\bord0\shad0\c&H7F7E81&\frz358.792\frx4\fry8\pos(804,138)}A wife or lover's pubic hair as a
-Dialogue: 0,0:12:44.03,0:12:45.61,Default,Kanji zoomed in on,0,0,0,,{\blur1.5\fs120\fnarial black\bord0\shad0\c&H7F7E81&\frz358.792\frx4\fry8\pos(868,102)}pubic hair
-Dialogue: 0,0:12:46.89,0:12:47.96,Default,Ako,0,0,0,,P-
-Dialogue: 0,0:12:47.96,0:12:49.49,Default,Riko,0,0,0,,Pubic hair.
-Dialogue: 0,0:12:50.45,0:12:52.04,Default,Riko,0,0,0,,Ako, is yours growing?
-Dialogue: 0,0:12:52.79,0:12:55.53,Default,Ako,0,0,0,,Yes, it is growing!
-Dialogue: 0,0:12:59.45,0:13:03.41,Default,Ako,0,0,0,,That Riko... What is she asking me in a place like that?
-Dialogue: 0,0:13:03.41,0:13:05.74,Default,Ako,0,0,0,,Ah, that was embarrassing.
-Dialogue: 0,0:13:07.66,0:13:10.47,Default,Ako,0,0,0,,And that remark, to top it off!
-Dialogue: 0,0:13:10.47,0:13:13.39,Default,Riko,0,0,0,,I'm sure you can still count them.
-Dialogue: 0,0:13:18.88,0:13:23.60,Default,Ako,0,0,0,,There's no way I can still count them.
-Dialogue: 0,0:13:23.91,0:13:25.45,Default,Ako,0,0,0,,No way...
-Dialogue: 0,0:13:29.23,0:13:31.21,Default,Ako,0,0,0,,No way... right...?
+Dialogue: 0,0:11:47.94,0:11:52.49,Default,Riko,0,0,0,,Mist. Egal wie viele Kopfbänder ich ihm mache, wir werden nie wissen ob sie wirken.  {"Mazui na, Hisshou hachimaki ayashoku gurai de wakattenai kamoshiren" - Ero_Yatsu}
+Dialogue: 0,0:11:52.49,0:11:56.77,Default,Ako,0,0,0,,Und selbst wenn, hätten gar nicht die Zeit für so viele...
+Dialogue: 0,0:11:56.77,0:11:59.90,Default,Riko,0,0,0,,Also heißt es: Qualität vor Quantität!
+Dialogue: 0,0:12:16.75,0:12:18.09,Default,Search text,0,0,0,,{\fs80\fnArial Black\frz1.77\bord0\shad0\c&H7F7E81&\blur0.5\frx0\fry0\pos(768.572,571.857)}Glücksbringer {Omamori}
+Dialogue: 0,0:12:18.17,0:12:19.21,Default,Search text,0,0,0,,{\fad(0,300)\fs80\fnArial Black\frz1.77\bord0\shad0\c&H7F7E81&\blur0.5\pos(726.429,163)}Glücksbringer {Omamori}
+Dialogue: 0,0:12:22.67,0:12:24.00,Default,Riko,0,0,0,,Wie läuft's?
+Dialogue: 0,0:12:24.00,0:12:25.68,Default,Ako,0,0,0,,Was machst du hier?
+Dialogue: 0,0:12:25.68,0:12:27.91,Default,Riko,0,0,0,,Ich lasse dich nur ungern allein.
+Dialogue: 0,0:12:27.91,0:12:30.14,Default,Riko,0,0,0,,Aber du suchst wohl nur nach unnötigem Zeug.
+Dialogue: 0,0:12:30.14,0:12:31.34,Default,Ako,0,0,0,,Tu ich nicht!
+Dialogue: 0,0:12:31.34,0:12:33.35,Default,Riko,0,0,0,,Oh, das sieht gut aus...
+Dialogue: 0,0:12:34.85,0:12:40.53,Default,Riko,0,0,0,,"Hilft besonders bei Wettbewerben, Prüfungen oder Glücksspiel:"
+Dialogue: 0,0:12:40.53,0:12:41.78,Default,Upper most line,0,0,0,,{\blur1\fs80\fnarial black\bord0\shad0\c&H7F7E81&\frz2.472\frx0\fry4\pos(1210.141,565.143)}Ein Schamhaar von der Freundin als Glücksbringer i{tsuma ya koibito no inmou wo omamori toshite}
+Dialogue: 0,0:12:43.11,0:12:44.03,Default,Text,0,0,0,,{\blur1\fs130\fnarial black\bord0\shad0\c&H7F7E81&\frx0\fry4\frz0.6096\pos(1004.426,203.428)}Schamhaar von der Freundin
+Dialogue: 0,0:12:44.03,0:12:45.61,Default,Kanji zoomed in on,0,0,0,,{\blur1.5\fs120\fnarial black\bord0\shad0\c&H7F7E81&\frz358.792\frx4\fry8\pos(1130.286,136.286)}Schamhaar
+Dialogue: 0,0:12:46.89,0:12:47.96,Default,Ako,0,0,0,,Sch-
+Dialogue: 0,0:12:47.96,0:12:49.49,Default,Riko,0,0,0,,Schamhaar?
+Dialogue: 0,0:12:50.45,0:12:52.04,Default,Riko,0,0,0,,Ako, wachsen dir denn welche?
+Dialogue: 0,0:12:52.79,0:12:55.53,Default,Ako,0,0,0,,Natürlich wachsen mir welche!
+Dialogue: 0,0:12:59.45,0:13:03.41,Default,Ako,0,0,0,,Diese Riko, stellt mir solch intime Fragen einfach in der Öffentlichkeit...
+Dialogue: 0,0:13:03.41,0:13:05.74,Default,Ako,0,0,0,,Ach war das peinlich.
+Dialogue: 0,0:13:07.66,0:13:10.47,Default,Ako,0,0,0,,Und obendrein sagt sie auch noch...
+Dialogue: 0,0:13:10.47,0:13:13.39,Default,Riko,0,0,0,,Ich wette du kannst du sie noch zählen.
+Dialogue: 0,0:13:18.88,0:13:23.60,Default,Ako,0,0,0,,Als ob ich sie noch zählen könnte!
+Dialogue: 0,0:13:23.91,0:13:25.45,Default,Ako,0,0,0,,Es sind zu viele.
+Dialogue: 0,0:13:29.23,0:13:31.21,Default,Ako,0,0,0,,Viel zu viele... oder?
 Dialogue: 0,0:13:36.92,0:13:39.92,Default,Ako,0,0,0,,1, 2, 3...
-Dialogue: 0,0:13:41.42,0:13:44.16,Default,Riko,0,0,0,,Phew, so refreshing!
-Dialogue: 0,0:13:45.42,0:13:47.28,Default,Ako,0,0,0,,Riko.
-Dialogue: 0,0:13:46.69,0:13:47.68,Default-Alt,Riko,0,0,0,,What?
-Dialogue: 0,0:13:50.01,0:13:53.10,Default,Ako,0,0,0,,I counted them!
-Dialogue: 0,0:13:57.27,0:13:59.69,Default,Riko,0,0,0,,I didn't think you'd really count them. {Yeah, right >_> -Pipelynx}
-Dialogue: 0,0:13:59.69,0:14:01.15,Default,Ako,0,0,0,,But, but!
-Dialogue: 0,0:14:02.57,0:14:05.74,Default,Riko,0,0,0,,You know that I'm very sparse, too.
-Dialogue: 0,0:14:05.74,0:14:09.01,Default,Riko,0,0,0,,I just played on the fact that as twins, we're probably quite similar.
-Dialogue: 0,0:14:09.01,0:14:10.47,Default,Ako,0,0,0,,But, but!
-Dialogue: 0,0:14:10.47,0:14:12.74,Default,Riko,0,0,0,,If you're going to be so concerned about it, then show me.
-Dialogue: 0,0:14:23.97,0:14:25.67,Default,Ako,0,0,0,,How is it?
+Dialogue: 0,0:13:41.42,0:13:44.16,Default,Riko,0,0,0,,Ah, so schön warm.
+Dialogue: 0,0:13:45.42,0:13:47.28,Default,Ako,0,0,0,,Riko!
+Dialogue: 0,0:13:47.28,0:13:47.68,Default,Ako,0,0,0,,Was?
+Dialogue: 0,0:13:50.01,0:13:53.10,Default,Ako,0,0,0,,Ich konnte sie tatsächlich zählen!
+Dialogue: 0,0:13:57.27,0:13:59.69,Default,Riko,0,0,0,,Hätte nicht gedacht, dass du das wirklich machst.
+Dialogue: 0,0:13:59.69,0:14:01.15,Default,Ako,0,0,0,,Aber, aber.
+Dialogue: 0,0:14:02.57,0:14:05.74,Default,Riko,0,0,0,,Du weißt doch, dass ich auch nicht so viele habe.
+Dialogue: 0,0:14:05.74,0:14:09.01,Default,Riko,0,0,0,,Das war doch nur ein Witz, weil wir doch Zwillinge sind.
+Dialogue: 0,0:14:09.01,0:14:10.47,Default,Ako,0,0,0,,Aber, aber!
+Dialogue: 0,0:14:10.47,0:14:12.74,Default,Riko,0,0,0,,Wenn es hilft, kann ich sie mir ja mal ansehen.
+Dialogue: 0,0:14:23.97,0:14:25.67,Default,Ako,0,0,0,,Und?
 Dialogue: 0,0:14:27.28,0:14:27.80,Default,Riko,0,0,0,,{"Pu~" *giggle*, maybe? -Pipelynx}{Not sure the line's even necessary, she's just laughing. - Ero_Yatsu}
-Dialogue: 0,0:14:28.03,0:14:29.72,Default,Ako,0,0,0,,Don't laugh like that!
-Dialogue: 0,0:14:29.72,0:14:36.24,Default,Riko,0,0,0,,Sorry, sorry. I just thought that it's funny that we twins are similar to that level.
-Dialogue: 0,0:14:36.24,0:14:40.06,Default,Riko,0,0,0,,But isn't it great that you won't have to worry alone?
+Dialogue: 0,0:14:28.03,0:14:29.72,Default,Ako,0,0,0,,Lach nicht so!
+Dialogue: 0,0:14:29.72,0:14:36.24,Default,Riko,0,0,0,,Sorry, sorry. Finde es nur witzig, dass wir sogar dort unten gleich aussehen.
+Dialogue: 0,0:14:36.24,0:14:40.06,Default,Riko,0,0,0,,Immerhin hast du das Problem nicht allein.
 Dialogue: 0,0:14:40.80,0:14:42.06,Default,Ako,0,0,0,,Riko!
 Dialogue: 0,0:14:42.88,0:14:43.86,Default,Riko,0,0,0,,Ako!
-Dialogue: 0,0:14:43.86,0:14:47.24,Default,Ako+Riko,0,0,0,,It's great that we were born as twins!
-Dialogue: 0,0:14:47.24,0:14:48.95,Default,Keita,0,0,0,,So noisy...
-Dialogue: 0,0:14:50.14,0:14:51.82,Default,Ako,0,0,0,,So that's that.
-Dialogue: 0,0:14:56.09,0:14:58.55,Default,Ako,0,0,0,,Now that I've calmed down, a greater problem arises.
-Dialogue: 0,0:14:58.55,0:14:59.50,Default,Riko,0,0,0,,What?
-Dialogue: 0,0:15:00.10,0:15:03.63,Default,Ako,0,0,0,,Do you think this poorly made charm will be effective? {literally: Will something this meagre have an effect? -Pipelynx}
-Dialogue: 0,0:15:03.97,0:15:07.82,Default,Riko,0,0,0,,Don't worry, if you combine it with mine, I'm sure it'll be more powerful.
-Dialogue: 0,0:15:08.81,0:15:11.37,Default,Ako,0,0,0,,Since when are we doing this together?
-Dialogue: 0,0:15:11.37,0:15:13.72,Default,Riko,0,0,0,,Now now, think about it.
-Dialogue: 0,0:15:14.03,0:15:19.14,Default,Riko,0,0,0,,If we give Keita two charms he doesn't need, what do you think he'll do?
-Dialogue: 0,0:15:20.76,0:15:21.65,Default,Ako,0,0,0,,He might throw them away.
-Dialogue: 0,0:15:21.95,0:15:22.85,Default,Riko,0,0,0,,Right?
-Dialogue: 0,0:15:23.74,0:15:26.61,Default,Riko,0,0,0,,Well, I'll leave the sewing of the pouch to you then.
-Dialogue: 0,0:15:26.61,0:15:27.58,Default,Ako,0,0,0,,Damn it.
-Dialogue: 0,0:15:27.58,0:15:31.14,Default,Riko,0,0,0,,And while we're at it, why not make Keita pluck them? {nuku, to draw out -> pluck -Pipelynx}
-Dialogue: 0,0:15:31.14,0:15:37.89,Default,Ako,0,0,0,,Make K-Kei-chan pluck them?
-Dialogue: 0,0:15:52.65,0:15:55.32,Default,Ako,0,0,0,,Kei-chan, this is embarrassing.
-Dialogue: 0,0:15:55.32,0:15:56.81,Default,Keita,0,0,0,,Now, step out of them.
-Dialogue: 0,0:16:06.40,0:16:07.19,Default,Ako,0,0,0,,N-No.
-Dialogue: 0,0:16:07.91,0:16:08.82,Default,Keita,0,0,0,,Then you want to quit?
-Dialogue: 0,0:16:09.39,0:16:10.57,Default,Ako,0,0,0,,No.
-Dialogue: 0,0:16:15.55,0:16:17.53,Default,Ako,0,0,0,,It's okay, Kei-chan.
-Dialogue: 0,0:16:17.87,0:16:19.26,Default,Keita,0,0,0,,I'll start.
-Dialogue: 0,0:16:25.56,0:16:27.50,Default,Ako,0,0,0,,It hurts, Kei-chan!
-Dialogue: 0,0:16:27.75,0:16:31.36,Default,Keita,0,0,0,,I can't help it. There's only two or three for me to pluck anyway.
-Dialogue: 0,0:16:31.36,0:16:32.63,Default,Ako,0,0,0,,Stop it!
-Dialogue: 0,0:16:32.63,0:16:34.05,Default,Keita,0,0,0,,Even if you say that...
-Dialogue: 0,0:16:34.39,0:16:37.89,Default,Ako,0,0,0,,Please, make it just one.
-Dialogue: 0,0:16:38.48,0:16:41.87,Default,Ako,0,0,0,,I don't have that many. I'm going to look like an infant!
-Dialogue: 0,0:16:41.87,0:16:43.14,Default,Keita,0,0,0,,What are you saying?
-Dialogue: 0,0:16:44.11,0:16:46.20,Default,Keita,0,0,0,,You pretty much look like an infant right now.
-Dialogue: 0,0:16:47.15,0:16:51.15,Default,Ako,0,0,0,,You stupid... Kei-chan you...
-Dialogue: 0,0:16:55.01,0:16:58.07,Default,Keita,0,0,0,,I'm sorry, my hand slipped. {Sure it did -Pipelynx}
-Dialogue: 0,0:17:05.38,0:17:07.52,Default,Keita,0,0,0,,What's all this about?
-Dialogue: 0,0:17:07.52,0:17:08.88,Default,Ako,0,0,0,,Don't ask me!
-Dialogue: 0,0:17:11.18,0:17:12.21,Default,Keita,0,0,0,,I'm doing it, Ako-nee!
-Dialogue: 0,0:17:16.79,0:17:18.02,Default,Keita,0,0,0,,I pulled one out.
-Dialogue: 0,0:17:18.02,0:17:20.26,Default,Ako,0,0,0,,Yeah, that hurt.
-Dialogue: 0,0:17:20.26,0:17:21.89,Default,Keita,0,0,0,,It hurt that bad?
-Dialogue: 0,0:17:21.89,0:17:24.14,Default,Ako,0,0,0,,No, I'm fine.
-Dialogue: 0,0:17:27.31,0:17:29.86,Default,Keita,0,0,0,,Ako-nee, as a thanks and sorry, I'll lick it for you.
-Dialogue: 0,0:17:32.33,0:17:33.31,Default,Ako,0,0,0,,Wait!
-Dialogue: 0,0:17:34.14,0:17:36.22,Default,Ako,0,0,0,,Wait, no!
-Dialogue: 0,0:17:36.86,0:17:38.95,Default,Ako,0,0,0,,I said I'm all right!
-Dialogue: 0,0:17:39.94,0:17:42.12,Default,Ako,0,0,0,,No, your mouth is... {Dame, gokuchi ga! -Pipelynx}
-Dialogue: 0,0:17:43.78,0:17:45.84,Default,Ako,0,0,0,,Kei-chan, I said no!
-Dialogue: 0,0:17:52.47,0:17:53.95,Default,Riko,0,0,0,,She returns at last. {literally: Ah, it finally ended.}
-Dialogue: 0,0:17:53.95,0:17:56.76,Default,Riko,0,0,0,,Say Ako, aren't you getting really perverted lately?
-Dialogue: 0,0:17:57.63,0:18:00.27,Default,Ako,0,0,0,,No way. I'm not like you!
-Dialogue: 0,0:18:00.27,0:18:02.14,Default,Riko,0,0,0,,I've been fully perverted from the start.
-Dialogue: 0,0:18:02.14,0:18:03.58,Default,Ako,0,0,0,,Really...?
-Dialogue: 0,0:18:04.69,0:18:07.97,Default,Riko,0,0,0,,Hm, as it's this late already, we have to do it quickly.
-Dialogue: 0,0:18:10.15,0:18:12.99,Default,Ako,0,0,0,,Well then, I'm going to the bathroom.
-Dialogue: 0,0:18:12.99,0:18:16.19,Default,Riko,0,0,0,,Since you just took a bath, why not put a clean one into it?
-Dialogue: 0,0:18:16.76,0:18:19.28,Default,Riko,0,0,0,,Or is the pee going to be an upgrade?
-Dialogue: 0,0:18:19.57,0:18:22.97,Default,Ako,0,0,0,,Of course not! I'm going there to pull one out! {There's a pun here I don't quite get, maybe change the TL to reflect it -Pipelynx}
-Dialogue: 0,0:18:22.97,0:18:25.30,Default,Riko,0,0,0,,That statement seems dubious.
-Dialogue: 0,0:18:25.30,0:18:28.30,Default,Ako,0,0,0,,Do you think I can do something that embarrassing in front of someone?
-Dialogue: 0,0:18:33.23,0:18:34.78,Default,Riko,0,0,0,,Now then...
+Dialogue: 0,0:14:43.86,0:14:47.24,Default,Ako+Riko,0,0,0,,Schön, dass wir als Zwillinge geboren wurden!
+Dialogue: 0,0:14:47.24,0:14:48.95,Default,Keita,0,0,0,,Seid doch leise...
+Dialogue: 0,0:14:50.14,0:14:51.82,Default,Ako,0,0,0,,Also.
+Dialogue: 0,0:14:56.09,0:14:58.55,Default,Ako,0,0,0,,Ich habe mich wieder beruhigt, \Naber wir haben immer noch nicht...
+Dialogue: 0,0:14:58.55,0:14:59.50,Default,Riko,0,0,0,,Was?
+Dialogue: 0,0:15:00.10,0:15:03.63,Default,Ako,0,0,0,,Meinst du wirklich, dass ein Schamhaar funktioniert?
+Dialogue: 0,0:15:03.97,0:15:07.82,Default,Riko,0,0,0,,Wenn du eins von mir dazulegst, dann bestimmt.
+Dialogue: 0,0:15:08.81,0:15:11.37,Default,Ako,0,0,0,,Seit wann machen wir das gemeinsam?
+Dialogue: 0,0:15:11.37,0:15:13.72,Default,Riko,0,0,0,,Na, denk doch mal nach.
+Dialogue: 0,0:15:14.03,0:15:19.14,Default,Riko,0,0,0,,Wenn wir ihm gleich zwei Glücksbringer geben, obwohl er nicht mal einen wollte...
+Dialogue: 0,0:15:20.76,0:15:21.65,Default,Ako,0,0,0,,...wirft er sie vielleicht weg...
+Dialogue: 0,0:15:21.95,0:15:22.85,Default,Riko,0,0,0,,Genau.
+Dialogue: 0,0:15:23.74,0:15:26.61,Default,Riko,0,0,0,,Das nähen eines Säckchens überlasse ich dir.
+Dialogue: 0,0:15:26.61,0:15:27.58,Default,Ako,0,0,0,,Verdammt!
+Dialogue: 0,0:15:27.58,0:15:31.14,Default,Riko,0,0,0,,Da wir das sowieso machen müssen, warum lassen wir sie nicht von Keita ziehen? {nuku, to draw out -> pluck -Pipelynx}
+Dialogue: 0,0:15:34.69,0:15:37.89,Default,Ako,0,0,0,,...von Keita ziehen lassen?
+Dialogue: 0,0:15:52.65,0:15:55.32,Default,Ako,0,0,0,,Kei-chan, das ist mir peinlich.
+Dialogue: 0,0:15:55.32,0:15:56.81,Default,Keita,0,0,0,,Steig raus.
+Dialogue: 0,0:16:06.40,0:16:07.19,Default,Ako,0,0,0,,N-Nein.
+Dialogue: 0,0:16:07.91,0:16:08.82,Default,Keita,0,0,0,,Soll ich aufhören?
+Dialogue: 0,0:16:09.39,0:16:10.57,Default,Ako,0,0,0,,Nein.
+Dialogue: 0,0:16:15.55,0:16:17.53,Default,Ako,0,0,0,,Es ist okay, Kei-chan.
+Dialogue: 0,0:16:17.87,0:16:19.26,Default,Keita,0,0,0,,Ich fang jetzt an.
+Dialogue: 0,0:16:25.56,0:16:27.50,Default,Ako,0,0,0,,Kei-chan, das tut weh!
+Dialogue: 0,0:16:27.75,0:16:31.36,Default,Keita,0,0,0,,Ich kann nicht weniger als 3 gleichzeitig nehmen.
+Dialogue: 0,0:16:31.36,0:16:32.63,Default,Ako,0,0,0,,Nicht!
+Dialogue: 0,0:16:32.63,0:16:34.05,Default,Keita,0,0,0,,Aber wie soll ich...
+Dialogue: 0,0:16:34.39,0:16:37.89,Default,Ako,0,0,0,,Nimm bitte nur eins.
+Dialogue: 0,0:16:38.48,0:16:41.87,Default,Ako,0,0,0,,Es sind eh so wenig. Sonst sehe ich da unten noch aus wie ein Baby.
+Dialogue: 0,0:16:41.87,0:16:43.14,Default,Keita,0,0,0,,Was laberst du?
+Dialogue: 0,0:16:44.11,0:16:46.20,Default,Keita,0,0,0,,Sieht ja jetzt schon wie bei einem Baby aus.
+Dialogue: 0,0:16:47.15,0:16:51.15,Default,Ako,0,0,0,,Du blöder... Kei-chan, du!
+Dialogue: 0,0:16:55.01,0:16:58.07,Default,Keita,0,0,0,,Tut mir leid, mein Hand ist ausgerutscht. {Sure it did -Pipelynx}
+Dialogue: 0,0:17:05.38,0:17:07.52,Default,Keita,0,0,0,,Was ist das?
+Dialogue: 0,0:17:07.52,0:17:08.88,Default,Ako,0,0,0,,Frag mich nicht!
+Dialogue: 0,0:17:11.18,0:17:12.21,Default,Keita,0,0,0,,Ich mach's jetzt, Ako-nee!
+Dialogue: 0,0:17:16.79,0:17:18.02,Default,Keita,0,0,0,,Hab eins.
+Dialogue: 0,0:17:18.02,0:17:20.26,Default,Ako,0,0,0,,Ah, das brennt.
+Dialogue: 0,0:17:20.26,0:17:21.89,Default,Keita,0,0,0,,War es schlimm?
+Dialogue: 0,0:17:21.89,0:17:24.14,Default,Ako,0,0,0,,Nein, geht schon.
+Dialogue: 0,0:17:27.31,0:17:29.86,Default,Keita,0,0,0,,Ako-nee, zur Wiedergutmachung werde ich die Stelle lecken.
+Dialogue: 0,0:17:32.33,0:17:33.31,Default,Ako,0,0,0,,Warte!
+Dialogue: 0,0:17:34.14,0:17:36.22,Default,Ako,0,0,0,,Warte, nein!
+Dialogue: 0,0:17:36.86,0:17:38.95,Default,Ako,0,0,0,,Ich hab gesagt es geht schon!
+Dialogue: 0,0:17:39.94,0:17:42.12,Default,Ako,0,0,0,,Nein, dein Mund ist... {Dame, gokuchi ga! -Pipelynx}
+Dialogue: 0,0:17:43.78,0:17:45.84,Default,Ako,0,0,0,,Kei-chan, ich hab nein gesagt!
+Dialogue: 0,0:17:52.47,0:17:53.95,Default,Riko,0,0,0,,Bist du fertig? {literally: Ah, it finally ended.}
+Dialogue: 0,0:17:53.95,0:17:56.76,Default,Riko,0,0,0,,Du bist ganz schön pervers in letzter Zeit.
+Dialogue: 0,0:17:57.63,0:18:00.27,Default,Ako,0,0,0,,Niemals, ich bin ja nicht wie du!
+Dialogue: 0,0:18:00.27,0:18:02.14,Default,Riko,0,0,0,,Ich war schon immer pervers.
+Dialogue: 0,0:18:02.14,0:18:03.58,Default,Ako,0,0,0,,Achso...
+Dialogue: 0,0:18:04.69,0:18:07.97,Default,Riko,0,0,0,,Oh, es ist schon spät. Wir sollten uns beeilen.
+Dialogue: 0,0:18:10.15,0:18:12.99,Default,Ako,0,0,0,,Na dann gehe ich nochmal ins Bad.
+Dialogue: 0,0:18:12.99,0:18:16.19,Default,Riko,0,0,0,,Du hast dich gerade gewaschen, warum pflückst du nicht ein frisches?
+Dialogue: 0,0:18:16.76,0:18:19.28,Default,Riko,0,0,0,,Oder ist Urin-Aroma ein Upgrade?
+Dialogue: 0,0:18:19.57,0:18:22.97,Default,Ako,0,0,0,,Natürlich nicht! \NIch gehe ins Badezimmer um mir eins zu ziehen! {There's a pun here I don't quite get, maybe change the TL to reflect it -Pipelynx}
+Dialogue: 0,0:18:22.97,0:18:25.30,Default,Riko,0,0,0,,Klingt jetzt nicht sehr glaubwürdig.
+Dialogue: 0,0:18:25.30,0:18:28.92,Default,Ako,0,0,0,,Glaubst du ich kann sowas peinliches vor jemand anderem machen?
+Dialogue: 0,0:18:33.23,0:18:34.78,Default,Riko,0,0,0,,Na dann...
 Dialogue: 0,0:18:41.42,0:18:42.62,Default,Riko,0,0,0,,Keita.
 Dialogue: 0,0:18:46.86,0:18:48.08,Default,Ako,0,0,0,,Kei-chan.
-Dialogue: 0,0:18:57.80,0:18:59.27,Default,Ako,0,0,0,,I'm back.
-Dialogue: 0,0:18:59.27,0:19:00.71,Default,Riko,0,0,0,,Welcome back.
-Dialogue: 0,0:19:00.71,0:19:01.71,Default,Riko,0,0,0,,Did you pull one out?
-Dialogue: 0,0:19:01.71,0:19:04.41,Default,Ako,0,0,0,,Stop saying it in such an embarrassing way!
-Dialogue: 0,0:19:05.32,0:19:07.16,Default,Riko,0,0,0,,With this, the ingredients are complete.
+Dialogue: 0,0:18:57.80,0:18:59.27,Default,Ako,0,0,0,,Bin wieder da.
+Dialogue: 0,0:18:59.27,0:19:00.58,Default,Riko,0,0,0,,Hi.
+Dialogue: 0,0:19:00.58,0:19:01.71,Default,Riko,0,0,0,,Hast du eins gepflückt?
+Dialogue: 0,0:19:01.71,0:19:04.41,Default,Ako,0,0,0,,Hör auf so peinlich darüber zu reden!
+Dialogue: 0,0:19:05.32,0:19:07.16,Default,Riko,0,0,0,,Damit wäre der Inhalt fertig.
 Dialogue: 0,0:19:10.29,0:19:14.40,Default,Ako,0,0,0,,The truth is, I have something I really need to reflect on.
 Dialogue: 0,0:19:14.40,0:19:15.99,Default,Riko,0,0,0,,What's this all of a sudden?
-Dialogue: 0,0:19:15.99,0:19:23.30,Default,Ako,0,0,0,,Up until now, I've thought that old men with really sparse hair who go to great lengths to maintain it were incredibly lame.
-Dialogue: 0,0:19:23.57,0:19:25.42,Default,Ako,0,0,0,,I was wrong.
-Dialogue: 0,0:19:25.42,0:19:30.92,Default,Ako,0,0,0,,I now know that each and every one of them is extremely important.
-Dialogue: 0,0:19:31.58,0:19:33.39,Default,Ako,0,0,0,,I apologize, old men!
-Dialogue: 0,0:19:33.39,0:19:36.44,Default,Riko,0,0,0,,Ako, just go to bed now.
-Dialogue: 0,0:19:36.44,0:19:39.11,Default,Ako+Riko,0,0,0,,{\fs72\frz22.745\frx26\fry0\fnEdo SZ\c&H4B4FD9&\bord0\shad0\move(828,569,777,516,0,2654)\t(\fs54)}Pass
-Dialogue: 0,0:19:37.69,0:19:39.11,Default,Ako+Riko,0,0,0,,It's done!
-Dialogue: 0,0:19:43.97,0:19:47.17,Default,Ako,0,0,0,,What kind of humiliating thing have we made?
-Dialogue: 0,0:19:47.17,0:19:50.88,Default,Riko,0,0,0,,I completely missed the timing to go back on this.
-Dialogue: 0,0:19:50.88,0:19:54.84,Default,Ako,0,0,0,,Let's make it clear that the contents of this charm will stay a secret between the two of us.
-Dialogue: 0,0:19:56.04,0:19:59.88,Default,Riko,0,0,0,,In this, you and I are enmeshed.
-Dialogue: 0,0:20:15.59,0:20:17.52,Default,Keita,0,0,0,,A charm, for me?
-Dialogue: 0,0:20:17.85,0:20:19.47,Default,Keita,0,0,0,,But I don't really...
-Dialogue: 0,0:20:19.47,0:20:20.30,Default,Ako,0,0,0,,It's fine!
-Dialogue: 0,0:20:20.30,0:20:21.69,Default,Riko,0,0,0,,Just take it!
-Dialogue: 0,0:20:22.50,0:20:25.16,Default,Keita,0,0,0,,Thanks. But where did you get it?
-Dialogue: 0,0:20:25.16,0:20:26.20,Default,Ako,0,0,0,,It's handmade.
-Dialogue: 0,0:20:26.20,0:20:28.19,Default,Keita,0,0,0,,Oh, really?
-Dialogue: 0,0:20:28.19,0:20:28.82,Default,Keita,0,0,0,,Let's see...
-Dialogue: 0,0:20:28.82,0:20:30.27,Default,Ako+Riko,0,0,0,,Stop!
-Dialogue: 0,0:20:30.27,0:20:30.95,Default,Keita,0,0,0,,What is it?
-Dialogue: 0,0:20:31.16,0:20:34.24,Default,Ako,0,0,0,,This charm has one thing you have to be careful about!
-Dialogue: 0,0:20:34.24,0:20:38.54,Default,Riko,0,0,0,,We would like you to keep it as close to you as possible! {They do say skin, but it sounds a little unnatural in english - Ero_Yatsu}
-Dialogue: 0,0:20:38.54,0:20:39.75,Default,Keita,0,0,0,,But...
-Dialogue: 0,0:20:40.12,0:20:41.66,Default,Ako,0,0,0,,If you open it, you're going down.
-Dialogue: 0,0:20:41.66,0:20:43.22,Default,Riko,0,0,0,,You're going down for real.
-Dialogue: 0,0:20:43.22,0:20:47.25,Default,Ako+Riko,0,0,0,,Never open it, ever!
-Dialogue: 0,0:20:48.24,0:20:52.02,Default,Keita,0,0,0,,I understand. I'll never open it. {"Zettai" makes it have a little stronger emphasis than just "won't" - Ero_Yatsu}
-Dialogue: 0,0:20:52.32,0:20:57.07,Default,Keita,0,0,0,,What is this about? What did they give me?
-Dialogue: 0,0:20:57.07,0:20:59.02,Default,Keita,0,0,0,,This is a charm, right?
+Dialogue: 0,0:19:15.99,0:19:23.30,Default,Ako,0,0,0,,Ich dachte immer wie bescheuert es ist, dass alte Leute mit Haarausfall sich so um ihr Haar sorgen.
+Dialogue: 0,0:19:23.57,0:19:25.42,Default,Ako,0,0,0,,Ich hatte so unrecht.
+Dialogue: 0,0:19:25.42,0:19:30.92,Default,Ako,0,0,0,,Jetzt weiß ich, wie wichtig jedes einzelne Haar ist.
+Dialogue: 0,0:19:31.58,0:19:33.39,Default,Ako,0,0,0,,Tut mir leid, alte Leute!
+Dialogue: 0,0:19:33.39,0:19:36.44,Default,Riko,0,0,0,,Ako, geh jetzt ins Bett.
+Dialogue: 0,0:19:36.44,0:19:39.11,Default,Ako+Riko,0,0,0,,{\fs72\frz22.745\frx26\fry0\fnEdo SZ\c&H4B4FD9&\bord0\shad0\move(828,569,777,516,0,2654)\t(\fs54)}Bestehen
+Dialogue: 0,0:19:37.69,0:19:39.11,Default,Ako+Riko,0,0,0,,Fertig!
+Dialogue: 0,0:19:43.97,0:19:47.17,Default,Ako,0,0,0,,Wie konnten wir sowas peinliches machen?
+Dialogue: 0,0:19:47.17,0:19:50.88,Default,Riko,0,0,0,,Wir hätten aufhören sollen, als es noch ging.
+Dialogue: 0,0:19:50.88,0:19:54.84,Default,Ako,0,0,0,,Wir dürfen keinem von dem Inhalt erzählen, klar?
+Dialogue: 0,0:19:56.04,0:19:59.88,Default,Riko,0,0,0,,Hierin sind wir beide vereint.
+Dialogue: 0,0:20:15.59,0:20:17.52,Default,Keita,0,0,0,,Ein Glücksbringer für mich?
+Dialogue: 0,0:20:17.85,0:20:19.47,Default,Keita,0,0,0,,Aber ich wollte gar keinen...
+Dialogue: 0,0:20:19.47,0:20:20.30,Default,Ako,0,0,0,,Egal!
+Dialogue: 0,0:20:20.30,0:20:21.69,Default,Riko,0,0,0,,Nimm ihn einfach!
+Dialogue: 0,0:20:22.50,0:20:25.16,Default,Keita,0,0,0,,Danke. Aber wo habt ihr ihn her?
+Dialogue: 0,0:20:25.16,0:20:26.20,Default,Ako,0,0,0,,Selbstgemacht.
+Dialogue: 0,0:20:26.20,0:20:28.19,Default,Keita,0,0,0,,Oh, wirklich?
+Dialogue: 0,0:20:28.19,0:20:28.82,Default,Keita,0,0,0,,Mal sehen...
+Dialogue: 0,0:20:28.82,0:20:30.27,Default,Ako+Riko,0,0,0,,Stopp!
+Dialogue: 0,0:20:30.27,0:20:30.95,Default,Keita,0,0,0,,Was denn?
+Dialogue: 0,0:20:31.16,0:20:34.24,Default,Ako,0,0,0,,Du musst auf ihn aufpassen, wie auf uns...
+Dialogue: 0,0:20:34.24,0:20:38.54,Default,Riko,0,0,0,,und ihn immer so nah wie möglich bei dir tragen! {They do say skin, but it sounds a little unnatural in english - Ero_Yatsu}
+Dialogue: 0,0:20:38.54,0:20:39.75,Default,Keita,0,0,0,,Aber...
+Dialogue: 0,0:20:40.12,0:20:41.66,Default,Ako,0,0,0,,Aber wenn du ihn öffnest...
+Dialogue: 0,0:20:41.66,0:20:43.22,Default,Riko,0,0,0,,Wirst du zu 100% durchfallen!
+Dialogue: 0,0:20:43.22,0:20:47.25,Default,Ako+Riko,0,0,0,,Wehe du öffnest ihn jemals!
+Dialogue: 0,0:20:48.24,0:20:52.02,Default,Keita,0,0,0,,Verstanden? Niemals aufmachen! {"Zettai" makes it have a little stronger emphasis than just "won't" - Ero_Yatsu}
+Dialogue: 0,0:20:52.32,0:20:57.07,Default,Keita,0,0,0,,Wieso? Was haben sie mir da gegeben?
+Dialogue: 0,0:20:57.07,0:20:59.02,Default,Keita,0,0,0,,Das ist schon ein Glücksbringer, oder?
 Dialogue: 0,0:21:00.02,0:21:01.43,Default,Ako,0,0,0,,Kei-chan!
 Dialogue: 0,0:21:01.43,0:21:02.69,Default,Riko,0,0,0,,Keita!
-Dialogue: 0,0:21:02.69,0:21:08.42,Default,Keita,0,0,0,,But with my sisters' vigour... this'll be effective for sure!
-Dialogue: 0,0:21:09.15,0:21:11.24,Default,Keita,0,0,0,,I got it, I promise.
-Dialogue: 0,0:21:11.24,0:21:13.73,Default,Keita,0,0,0,,Thank you, Ako-nee, Riko-nee.
-Dialogue: 0,0:21:20.78,0:21:24.51,Default,Toda,0,0,0,,Please give me the ability to pass! I beg you, I beg you!
-Dialogue: 0,0:21:28.13,0:21:29.44,Default,Keita,0,0,0,,I'm off!
-Dialogue: 0,0:21:29.44,0:21:31.89,Default,Ako,0,0,0,,Hey Kei-chan, what about the charm?
-Dialogue: 0,0:21:32.33,0:21:34.73,Default,Keita,0,0,0,,I put it on, see!
-Dialogue: 0,0:21:34.73,0:21:37.39,Default,Keita,0,0,0,,Now I can show it to the world.
-Dialogue: 0,0:21:40.81,0:21:41.75,Default,Ako,0,0,0,,In a place...
-Dialogue: 0,0:21:41.75,0:21:43.44,Default,Riko,0,0,0,,...this open!
-Dialogue: 0,0:21:46.72,0:21:50.14,Default,Ako,0,0,0,,Am I imagining this or is there a breeze picking up?{ki no sei kashira, gokan ga suusuu suru -Pipelynx}
-Dialogue: 0,0:21:50.14,0:21:52.41,Default,Riko,0,0,0,,The breeze was there all along.{motomoto suusuu shiteta kuse ni -Pipelynx} {This is me trying to make this tsukkomi work, TLC please -Pipelynx}
-Dialogue: 0,0:21:52.41,0:21:55.45,Default,Ako,0,0,0,,Screw this, we shouldn't have done this!
-Dialogue: 0,0:21:55.45,0:21:58.17,Default,Ako,0,0,0,,Isn't this what they call imprudence? {wakage no itari, TL is straight from jisho.org -Pipelynx}{lack of discretion so imprudence -himie}
-Dialogue: 0,0:21:58.17,0:21:59.92,Default,Ako,0,0,0,,No, it's not!
+Dialogue: 0,0:21:02.69,0:21:08.42,Default,Keita,0,0,0,,Aber so entschlossen wie die sind, muss er wohl wirklich gut funkionieren.
+Dialogue: 0,0:21:09.15,0:21:11.24,Default,Keita,0,0,0,,Ja, versprochen.
+Dialogue: 0,0:21:11.24,0:21:13.73,Default,Keita,0,0,0,,Danke, Ako-nee, Riko-nee.
+Dialogue: 0,0:21:20.78,0:21:24.51,Default,Toda,0,0,0,,Gebt mir die Kraft zu bestehen! Ich flehe euch an!
+Dialogue: 0,0:21:28.13,0:21:29.44,Default,Keita,0,0,0,,Muss los!
+Dialogue: 0,0:21:29.44,0:21:31.89,Default,Ako,0,0,0,,Kei-chan, was ist mit dem Glücksbringer?
+Dialogue: 0,0:21:32.33,0:21:34.73,Default,Keita,0,0,0,,Hängt an meiner Tasche. Schau!
+Dialogue: 0,0:21:34.73,0:21:37.39,Default,Keita,0,0,0,,So kann ihn jeder bewundern.
+Dialogue: 0,0:21:40.81,0:21:41.75,Default,Ako,0,0,0,,An so einer...
+Dialogue: 0,0:21:41.75,0:21:43.44,Default,Riko,0,0,0,,...offenen Stelle...
+Dialogue: 0,0:21:46.72,0:21:50.14,Default,Ako,0,0,0,,Kommt es mir nur so vor oder wird es dir auch gerade frisch untenrum?{ki no sei kashira, gokan ga suusuu suru -Pipelynx}
+Dialogue: 0,0:21:50.14,0:21:52.41,Default,Riko,0,0,0,,Immer schon, aber jetzt noch mehr...{motomoto suusuu shiteta kuse ni -Pipelynx} {This is me trying to make this tsukkomi work, TLC please -Pipelynx}
+Dialogue: 0,0:21:52.41,0:21:55.45,Default,Ako,0,0,0,,Ach mann, wir hätten das nicht machen sollen.
+Dialogue: 0,0:21:55.45,0:21:58.17,Default,Ako,0,0,0,,Das nennt man wohl Mangel an Diskretion. {wakage no itari, TL is straight from jisho.org -Pipelynx}{lack of discretion so imprudence -himie}
+Dialogue: 0,0:21:58.17,0:21:59.92,Default,Ako,0,0,0,,Nein.
 Dialogue: 0,0:23:29.88,0:23:49.90,Signs02,Ako,0,0,0,,{\an1\fs50\c&HF39073&\3c&HD7F7FD&\pos(112,480)}At Last, the Real Thing!
-Dialogue: 0,0:23:30.94,0:23:34.74,Default,Riko,0,0,0,,Keita came down with a high fever just before the important exams.
-Dialogue: 0,0:23:34.74,0:23:38.60,Default,Riko,0,0,0,,I'll do anything to make him healthy again!
-Dialogue: 0,0:23:38.60,0:23:40.83,Default,Riko,0,0,0,,Now, relax.
-Dialogue: 0,0:23:41.94,0:23:45.74,Default,Riko,0,0,0,,This is therapy. The-ra-py!
-Dialogue: 0,0:23:45.74,0:23:47.99,Default,Riko,0,0,0,,Next episode: At Last, the Real Thing! {Toutou honban!, TL taken from anidb.net}
-Dialogue: 0,0:23:47.99,0:23:49.90,Default,Riko,0,0,0,,I'll give you a kiss!
+Dialogue: 0,0:23:30.94,0:23:34.74,Default,Riko,0,0,0,,Keita hat kurz vor seinen Prüfungen hohes Fieber.
+Dialogue: 0,0:23:34.74,0:23:38.60,Default,Riko,0,0,0,,Ich tu alles, damit es ihm wieder gut geht.
+Dialogue: 0,0:23:38.60,0:23:40.83,Default,Riko,0,0,0,,Und jetzt entspann dich.
+Dialogue: 0,0:23:41.94,0:23:45.74,Default,Riko,0,0,0,,Ich gebe dir eine Behandlung. Be-hand-lung!
+Dialogue: 0,0:23:45.74,0:23:47.99,Default,Riko,0,0,0,,Nächste Folge: At Last, the Real Thing! {Toutou honban!, TL taken from anidb.net}
+Dialogue: 0,0:23:47.99,0:23:49.90,Default,Riko,0,0,0,,Kuss!
 Dialogue: 0,0:23:49.90,0:23:54.90,Default,,0,0,0,,
