@@ -5,7 +5,7 @@ Da alle deutschen kissxsis Subs nicht meinen Qualitätswünschen entsprechen, ha
 [Fansubber-Codex](https://nakedsubs.de/kodex/)
  
 ## Status:
-
+Ordered by the History of the Manga thanks to [u/JRey33](https://www.reddit.com/r/KxS/comments/5biyk7/anime_order).
 Episode|Untertitel|Karaoke|Effekte
 -------|----------|-------|-------
 ova0|✔️||
