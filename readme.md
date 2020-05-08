@@ -3,7 +3,7 @@
 Da alle deutschen kissxsis Subs nicht meinen Qualitätswünschen entsprechen, habe ich mich dazu entschieden, anhand von (meistens) 3 englischen Subs und einem deutschen, eine eigenen Sub zu erstellen.
 
 [Fansubber-Codex](https://nakedsubs.de/kodex/)
- 
+
 ## Status:
 Ordered by the History of the Manga thanks to [u/JRey33](https://www.reddit.com/r/KxS/comments/5biyk7/anime_order).
 Episode|Untertitel|Karaoke|Effekte
@@ -13,8 +13,8 @@ tv1|✔️||✔️
 ova1|✔️||
 tv4|✔️||✔️
 tv2|✔️||✔️
-tv9|🕛||
-ova2|||
+tv9|✔️||
+ova2|⏸||
 tv5|||
 tv3|||
 tv6|||
